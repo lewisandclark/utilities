@@ -11,11 +11,6 @@ class Inflector {
 	 * However, they've been modified to add the additional methods
 	 * and bring all the routines into a consistent space and PHP
 	 * classes.
-	 * 
-	 * Copyright 2009 David W. McKelvey / Lewis & Clark
-	 * 
-	 * Free to use (at your own risk) and re-distrubute,
-	 * so long as this comment header remains with it.
 	 */
 
 	static $plural = array(
